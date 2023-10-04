@@ -25,4 +25,4 @@ gantt
 ```
 #  PERT圖
 
-![NKUST](PERT.jpg "PERT")
+![NKUST](PERT2.jpg "PERT")
