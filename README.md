@@ -23,3 +23,6 @@ gantt
     使用者訓練       :a10, after a7,15d
     使用者測試       :a11, after a10,10d
 ```
+#  PERT圖
+
+![NKUST](PERT.jpg "PERT")
