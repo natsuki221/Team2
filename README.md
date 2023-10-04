@@ -26,3 +26,7 @@ gantt
 #  PERT圖
 
 ![NKUST](PERT2.jpg "PERT")
+
+# 關鍵路徑
+
+1-2-3-4-5-7-10-11
