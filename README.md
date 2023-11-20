@@ -16,8 +16,7 @@ gantt
     搜集資料       :a3, after a2,3d
     建置開發環境    :a4, after a3,5d
     建置資料庫      :a5, after a4,5d
-    APP開發        :a6, after a5,20d
-    後端開發        :a7, after a5,30d
+    APP開發        :a6, after a5,30d
     程式測試        :a8, after a7,10d
     撰寫使用手冊     :a9, after a5,10d
     使用者訓練       :a10, after a7,15d
