@@ -1,0 +1,6 @@
+# 分鏡板(Storyboard)
+![Storyboard-1](Storyboard-1.jpg "Storyboard-1")
+![Storyboard-2](Storyboard-2.jpg "Storyboard-2")
+![Storyboard-3](Storyboard-3.jpg "Storyboard-3")
+![Storyboard-4](Storyboard-4.jpg "Storyboard-4")
+![Storyboard-5](Storyboard-5.jpg "Storyboard-5")
