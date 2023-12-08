@@ -17,10 +17,10 @@ gantt
     建置開發環境    :a4, after a3,5d
     建置資料庫      :a5, after a4,5d
     APP開發        :a6, after a5,30d
-    程式測試        :a8, after a7,10d
-    撰寫使用手冊     :a9, after a5,10d
-    使用者訓練       :a10, after a7,15d
-    使用者測試       :a11, after a10,10d
+    程式測試        :a7, after a6,10d
+    撰寫使用手冊     :a8, after a5,10d
+    使用者訓練       :a9, after a6,15d
+    使用者測試       :a10, after a9,10d
 ```
 #  PERT圖
 
